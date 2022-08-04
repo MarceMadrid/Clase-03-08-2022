@@ -1,0 +1,15 @@
+
+[
+{
+  "titulo": "Hacer ejercicios de JS",
+  "estado": "terminada"
+},
+{
+    "titulo": "Armar aplicación de Tareas",
+    "estado": "en progreso"
+},
+{
+    "titulo": "Break",
+    "estado": "pendiente"
+}
+]
